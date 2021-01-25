@@ -6,6 +6,17 @@ Features implemented:
 * Filtering of records on the basis of different criteria.
 * Routing to url as per different filters.
 * App is responsive to all the screen sizes (Desktop, Tablet, Mobile).
+* Lighthouse score : 
+    - Desktop - 
+        - Performance - 49%
+        - Accessibility - 94%
+        - Best Practice - 93%
+        - SEO - 89%
+    - Mobile - 
+        - Performance - 30%
+        - Accessibility - 94%
+        - Best Practice - 93%
+        - SEO - 91%
 
 ## Development server
 
